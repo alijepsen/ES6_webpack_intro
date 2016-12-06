@@ -1,0 +1,21 @@
+body {
+  font-family: Tahoma;
+}
+
+.service-text {
+  text-align: center;
+}
+
+.service-text p{
+  text-align: left;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#see-const, #see-let {
+  display: none;
+}
